@@ -24,6 +24,6 @@ My tasks were to do the following:
 
 ## Observations
 
-- Obs 1
-- Obs 2
-- Obs 3
+- Average tumor volume is directly related to mouse weight.
+- Mice treated with the Capomulin drug regimen showed decrease in tumor volume over time.
+- 
