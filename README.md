@@ -26,4 +26,4 @@ My tasks were to do the following:
 
 - Average tumor volume is directly related to mouse weight.
 - Mice treated with the Capomulin drug regimen showed decrease in tumor volume over time.
-- 
+- Made a graph of tumor volume vs time and ran for each drug regimen all but Ramicane and Capomulin showed a decrease over time
